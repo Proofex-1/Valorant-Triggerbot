@@ -1,0 +1,12 @@
+C:\Users\g\Downloads\ValorantAimbotUI\bin\Release\ValorantAimbotUI.exe.config
+C:\Users\g\Downloads\ValorantAimbotUI\bin\Release\ValorantAimbotUI.exe
+C:\Users\g\Downloads\ValorantAimbotUI\bin\Release\ValorantAimbotUI.pdb
+C:\Users\g\Downloads\ValorantAimbotUI\bin\Release\InputInjectorNet.dll
+C:\Users\g\Downloads\ValorantAimbotUI\obj\Release\Cracked By Proofex.csproj.AssemblyReference.cache
+C:\Users\g\Downloads\ValorantAimbotUI\obj\Release\ValorantAimbotUI.Form1.resources
+C:\Users\g\Downloads\ValorantAimbotUI\obj\Release\ValorantAimbotUI.Properties.Resources.resources
+C:\Users\g\Downloads\ValorantAimbotUI\obj\Release\Cracked By Proofex.csproj.GenerateResource.cache
+C:\Users\g\Downloads\ValorantAimbotUI\obj\Release\Cracked By Proofex.csproj.CoreCompileInputs.cache
+C:\Users\g\Downloads\ValorantAimbotUI\obj\Release\Cracked By Proofex.csproj.CopyComplete
+C:\Users\g\Downloads\ValorantAimbotUI\obj\Release\ValorantAimbotUI.exe
+C:\Users\g\Downloads\ValorantAimbotUI\obj\Release\ValorantAimbotUI.pdb
